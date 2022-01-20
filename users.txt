@@ -5,5 +5,10 @@ Team Members:
 
 Praveen Elango PraveenElango
 Wang Mingchuan wmingchuan
-Lau Ern Tze erntze
+Lau Ern Tze  erntze
+<<<<<<< HEAD
 Deng Yeran
+=======
+Deng Yeran YeranDeng
+Tan Chern Lin Justin justintan2002
+>>>>>>> e5eaf1f469f3e440fc2b242254ce8d49d7aa2329
