@@ -4,6 +4,6 @@ ROS2 auto_nav code for EG2310
 Team Members:
 
 Praveen Elango PraveenElango
-Wang Mingchuan
+Wang Mingchuan wmingchuan
 Lau Ern Tze
 Deng Yeran
